@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726868644910",
+    "project_id": "abp-library-firebase-app",
+    "storage_bucket": "abp-library-firebase-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726868644910:android:2700a63ddd08fdd4c33bbf",
+        "android_client_info": {
+          "package_name": "com.example.library_app_abp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj636ZIdqndahbmEZ1XwDcrRaG07LKvAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
